@@ -33,3 +33,42 @@ class Metotlar
     }
     }
     //ref yani referans ile a ve b değerlerinin bellekteki karşılıklarını veriyoruz.
+
+    //************************methods 2-method overloading***************************************//
+
+    //out parametreler 
+class program
+{
+    static void OverLoading(string[] args)
+    {
+            string sayi = "999";
+            bool sonuc = int.TryParse(sayi, out int outSayi);
+            //boolean döner
+            if( sonuc ){
+                Console.WriteLine("başarılı");
+                Console.WriteLine(outSayi);
+            } else{
+                Console.WriteLine("başarısız!");
+            }
+            Methods instance = new Methods();
+            instance.Toplam(4,5,out int toplamSonuc);
+            Console.WriteLine(toplamSonuc);
+
+            //method overloading
+           int ifade = 999;
+           instance.Yazdirmaİslemi(Convert.ToString(ifade)); 
+    }
+}
+class Methods
+{
+    public void Toplam(int a,int b, out int t){
+         t=a+b;
+    }
+    public void Yazdirmaİslemi(string veri){
+        Console.Write(veri);
+    }
+    public void Yazdirmaİslemi(int veri){
+        Console.Write(veri);
+    }
+    //aynı fonksiyonu 2 farklı kez farklı veri tipiyle overload ettik
+}
