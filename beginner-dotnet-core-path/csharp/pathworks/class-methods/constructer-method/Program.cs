@@ -5,13 +5,9 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
-        Calisan calisan1 = new Calisan();
-        calisan1.ad = "Ayşe";
-        calisan1.soyad = "Kara";
-        calisan1.No = 1232332132;
-        calisan1.Departman = "İnsan Kaynakları";
-
+        Calisan calisan1 = new Calisan("Ayşe","Kara",12312321,"İnsan Kaynakları");
         calisan1.CalisanBilgileri();
+
 
         Calisan calisan2 = new Calisan();
         calisan2.ad = "Deniz";
@@ -20,6 +16,10 @@ internal class Program
         calisan2.Departman = "Satın Alma";
         
         calisan2.CalisanBilgileri();
+
+        Calisan calisan3 = new Calisan("asdasd","asdsada");
+        calisan3.CalisanBilgileri();
+        //girilmeyen bilgileri default null ve 0 döndürür
     }
 }
 // [Erişim Belirleyici][Veri Tipi] ÖzellikAdı;
@@ -30,6 +30,21 @@ internal class Program
     public string soyad;
     public int No;
     public string Departman;
+
+    public Calisan(string ad, string soyad, int No, string Departman)
+    {
+       this.ad = ad;
+       this.soyad = soyad;
+       this.No = No;
+       this.Departman = Departman;
+    
+    }
+    public Calisan(string ad, string soyad)
+    {
+       this.ad = ad;
+       this.soyad = soyad;
+    }
+    public Calisan(){}
     public void CalisanBilgileri(){
         Console.WriteLine("Çalışan Adı{0}",ad);
         Console.WriteLine("Çalışan Soydı{0}",soyad);
