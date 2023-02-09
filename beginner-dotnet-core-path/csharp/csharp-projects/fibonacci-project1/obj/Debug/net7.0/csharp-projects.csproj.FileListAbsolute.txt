@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\bin\Debug\net7.0\csharp-projects.exe
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\bin\Debug\net7.0\csharp-projects.deps.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\bin\Debug\net7.0\csharp-projects.runtimeconfig.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\bin\Debug\net7.0\csharp-projects.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\bin\Debug\net7.0\csharp-projects.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\obj\Debug\net7.0\csharp-projects.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\obj\Debug\net7.0\csharp-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\obj\Debug\net7.0\csharp-projects.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\obj\Debug\net7.0\csharp-projects.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\obj\Debug\net7.0\csharp-projects.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\obj\Debug\net7.0\csharp-projects.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\obj\Debug\net7.0\refint\csharp-projects.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\obj\Debug\net7.0\csharp-projects.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\obj\Debug\net7.0\csharp-projects.genruntimeconfig.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\obj\Debug\net7.0\ref\csharp-projects.dll
