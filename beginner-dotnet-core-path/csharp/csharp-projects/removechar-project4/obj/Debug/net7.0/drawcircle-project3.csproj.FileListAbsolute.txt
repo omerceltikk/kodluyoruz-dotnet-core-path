@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\bin\Debug\net7.0\drawcircle-project3.exe
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\bin\Debug\net7.0\drawcircle-project3.deps.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\bin\Debug\net7.0\drawcircle-project3.runtimeconfig.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\bin\Debug\net7.0\drawcircle-project3.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\bin\Debug\net7.0\drawcircle-project3.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\obj\Debug\net7.0\drawcircle-project3.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\obj\Debug\net7.0\drawcircle-project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\obj\Debug\net7.0\drawcircle-project3.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\obj\Debug\net7.0\drawcircle-project3.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\obj\Debug\net7.0\drawcircle-project3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\obj\Debug\net7.0\drawcircle-project3.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\obj\Debug\net7.0\refint\drawcircle-project3.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\obj\Debug\net7.0\drawcircle-project3.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\obj\Debug\net7.0\drawcircle-project3.genruntimeconfig.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawcircle-project3\obj\Debug\net7.0\ref\drawcircle-project3.dll
