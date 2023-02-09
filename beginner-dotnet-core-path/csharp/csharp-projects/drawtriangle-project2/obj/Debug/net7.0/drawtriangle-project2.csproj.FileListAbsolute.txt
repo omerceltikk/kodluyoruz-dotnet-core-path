@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\bin\Debug\net7.0\drawtriangle-project2.exe
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\bin\Debug\net7.0\drawtriangle-project2.deps.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\bin\Debug\net7.0\drawtriangle-project2.runtimeconfig.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\bin\Debug\net7.0\drawtriangle-project2.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\bin\Debug\net7.0\drawtriangle-project2.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\obj\Debug\net7.0\drawtriangle-project2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\obj\Debug\net7.0\drawtriangle-project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\obj\Debug\net7.0\drawtriangle-project2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\obj\Debug\net7.0\drawtriangle-project2.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\obj\Debug\net7.0\drawtriangle-project2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\obj\Debug\net7.0\drawtriangle-project2.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\obj\Debug\net7.0\refint\drawtriangle-project2.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\obj\Debug\net7.0\drawtriangle-project2.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\obj\Debug\net7.0\drawtriangle-project2.genruntimeconfig.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\drawtriangle-project2\obj\Debug\net7.0\ref\drawtriangle-project2.dll
