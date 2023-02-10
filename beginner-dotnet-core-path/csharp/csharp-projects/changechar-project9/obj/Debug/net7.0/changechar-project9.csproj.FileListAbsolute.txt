@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\bin\Debug\net7.0\changechar-project9.exe
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\bin\Debug\net7.0\changechar-project9.deps.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\bin\Debug\net7.0\changechar-project9.runtimeconfig.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\bin\Debug\net7.0\changechar-project9.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\bin\Debug\net7.0\changechar-project9.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\obj\Debug\net7.0\changechar-project9.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\obj\Debug\net7.0\changechar-project9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\obj\Debug\net7.0\changechar-project9.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\obj\Debug\net7.0\changechar-project9.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\obj\Debug\net7.0\changechar-project9.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\obj\Debug\net7.0\changechar-project9.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\obj\Debug\net7.0\refint\changechar-project9.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\obj\Debug\net7.0\changechar-project9.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\obj\Debug\net7.0\changechar-project9.genruntimeconfig.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\changechar-project9\obj\Debug\net7.0\ref\changechar-project9.dll
