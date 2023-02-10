@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "drawcircle-project3/1.0.0": {
+        "runtime": {
+          "drawcircle-project3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "drawcircle-project3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
