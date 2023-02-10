@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\bin\Debug\net7.0\consonants-project10.exe
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\bin\Debug\net7.0\consonants-project10.deps.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\bin\Debug\net7.0\consonants-project10.runtimeconfig.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\bin\Debug\net7.0\consonants-project10.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\bin\Debug\net7.0\consonants-project10.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\obj\Debug\net7.0\consonants-project10.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\obj\Debug\net7.0\consonants-project10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\obj\Debug\net7.0\consonants-project10.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\obj\Debug\net7.0\consonants-project10.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\obj\Debug\net7.0\consonants-project10.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\obj\Debug\net7.0\consonants-project10.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\obj\Debug\net7.0\refint\consonants-project10.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\obj\Debug\net7.0\consonants-project10.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\obj\Debug\net7.0\consonants-project10.genruntimeconfig.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\consonants-project10\obj\Debug\net7.0\ref\consonants-project10.dll

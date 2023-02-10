@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "consonants-project10/1.0.0": {
+        "runtime": {
+          "consonants-project10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consonants-project10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
