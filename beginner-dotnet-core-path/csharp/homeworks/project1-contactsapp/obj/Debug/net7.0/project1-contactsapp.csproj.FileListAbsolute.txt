@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\bin\Debug\net7.0\project1-contactsapp.exe
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\bin\Debug\net7.0\project1-contactsapp.deps.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\bin\Debug\net7.0\project1-contactsapp.runtimeconfig.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\bin\Debug\net7.0\project1-contactsapp.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\bin\Debug\net7.0\project1-contactsapp.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\obj\Debug\net7.0\project1-contactsapp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\obj\Debug\net7.0\project1-contactsapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\obj\Debug\net7.0\project1-contactsapp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\obj\Debug\net7.0\project1-contactsapp.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\obj\Debug\net7.0\project1-contactsapp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\obj\Debug\net7.0\project1-contactsapp.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\obj\Debug\net7.0\refint\project1-contactsapp.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\obj\Debug\net7.0\project1-contactsapp.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\obj\Debug\net7.0\project1-contactsapp.genruntimeconfig.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project1-contactsapp\obj\Debug\net7.0\ref\project1-contactsapp.dll
