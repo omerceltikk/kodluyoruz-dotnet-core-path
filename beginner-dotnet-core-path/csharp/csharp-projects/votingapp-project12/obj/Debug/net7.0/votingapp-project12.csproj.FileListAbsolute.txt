@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\bin\Debug\net7.0\votingapp-project12.exe
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\bin\Debug\net7.0\votingapp-project12.deps.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\bin\Debug\net7.0\votingapp-project12.runtimeconfig.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\bin\Debug\net7.0\votingapp-project12.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\bin\Debug\net7.0\votingapp-project12.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\obj\Debug\net7.0\votingapp-project12.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\obj\Debug\net7.0\votingapp-project12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\obj\Debug\net7.0\votingapp-project12.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\obj\Debug\net7.0\votingapp-project12.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\obj\Debug\net7.0\votingapp-project12.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\obj\Debug\net7.0\votingapp-project12.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\obj\Debug\net7.0\refint\votingapp-project12.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\obj\Debug\net7.0\votingapp-project12.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\obj\Debug\net7.0\votingapp-project12.genruntimeconfig.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\csharp-projects\votingapp-project12\obj\Debug\net7.0\ref\votingapp-project12.dll
