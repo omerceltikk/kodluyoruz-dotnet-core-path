@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\bin\Debug\net7.0\project2-todolist.exe
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\bin\Debug\net7.0\project2-todolist.deps.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\bin\Debug\net7.0\project2-todolist.runtimeconfig.json
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\bin\Debug\net7.0\project2-todolist.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\bin\Debug\net7.0\project2-todolist.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\obj\Debug\net7.0\project2-todolist.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\obj\Debug\net7.0\project2-todolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\obj\Debug\net7.0\project2-todolist.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\obj\Debug\net7.0\project2-todolist.AssemblyInfo.cs
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\obj\Debug\net7.0\project2-todolist.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\obj\Debug\net7.0\project2-todolist.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\obj\Debug\net7.0\refint\project2-todolist.dll
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\obj\Debug\net7.0\project2-todolist.pdb
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\obj\Debug\net7.0\project2-todolist.genruntimeconfig.cache
+C:\Users\admin\Desktop\dotnet-core-paths\beginner-dotnet-core-path\csharp\homeworks\project2-todolist\obj\Debug\net7.0\ref\project2-todolist.dll
