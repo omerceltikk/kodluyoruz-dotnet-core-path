@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/3/Jva53XSEUa3FcEYfH+h3uQ56fjP7I5Pm80M6paXeE7C6V9Sss2FJILhZjpsNvj7ypQN0vN/WKGp0vjrLYpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\dotnet-core-paths\\beginner-dotnet-core-path\\csharp\\csharp-projects\\barcodegenerator-project13\\barcodegenerator-project13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\barcode\\2022.5.5918\\barcode.2022.5.5918.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
